@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. in Econometrics and Business Statistics"
   institution = "Monash University"
-  year = 2019.02-
+  year = 2019.02
 
 [[education.courses]]
   course = "M.S. in Applied Statistics"
   institution = "Central University of Finance and Economics"
-  year = 2016.09-2018.06
+  year = 2016.09
 
 [[education.courses]]
   course = "B.S. in Economics"
   institution = "Central University of Finance and Economics"
-  year = 2012.09-2016.06
+  year = 2012.09
  
 +++
 
