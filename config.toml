@@ -64,11 +64,10 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "Fan.Cheng@monash.edu"
-  address = "Wellington Road, Monash University, Claton, Victoria 3800, Australia"
+  address = "900 Dandenong Road, Monash University, Caulfield, VIC 3145, Australia"
   office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
+  Monday - Friday 09:00 to 18:00<br>
+  Otherwise email me
   """
   phone = "888 888 88 88"
   skype = "echo123"
@@ -76,7 +75,7 @@ enableGitInfo = false
   keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url = ""
+  # appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -122,7 +121,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "fanchengfc"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -268,7 +267,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/fanchengfc"
 
   [[params.social]]
     icon = "google-scholar"
@@ -278,7 +277,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/ffancheng"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
