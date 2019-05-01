@@ -70,8 +70,8 @@ enableGitInfo = false
   Otherwise please email me.
   """
   phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  # skype = "echo123"
+  # telegram = ""
   keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
